@@ -54,16 +54,6 @@ Yumeng Lu
 - *2023.11* Merit student, Tianjin University  
 
 # 📖 Education
-<div class='paper-box'><div class='paper-box-image' style="width: 150px; min-width: 150px;"><div><img src='images/TJU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- *2022.08 - 2026.07 (expected)*, B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
-- *2023.11 - 2026.07 (expected)*, B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
-
-</div>
-</div>
-
-
 <div class='paper-box'>
     <div class='paper-box-image' style="flex: 0 0 15%; max-width: 15%; min-width: 100px;">
         <div><img src='images/TJU.png' alt="sym" width="100%"></div>
@@ -73,6 +63,4 @@ Yumeng Lu
 
 - *2022.08 - 2026.07 (expected)*, B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
 - *2023.11 - 2026.07 (expected)*, B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
-
-    </div>
 </div>
