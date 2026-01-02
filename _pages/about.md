@@ -56,11 +56,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Education
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TJU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="width: 120px; min-width: 120px;"><div><img src='images/TJU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - *2022.08 - 2026.07 (expected)*, B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
-- *2023.11 - 2026.07 (expected)*, B.Eng. in Computer Science at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/)
+- *2023.11 - 2026.07 (expected)*, B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
 
 </div>
 </div>
