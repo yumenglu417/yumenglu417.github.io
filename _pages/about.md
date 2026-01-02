@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-Yumeng Lu 
+I am currently a 4th year undergraduate 
 
 
 # 🔥 News
@@ -59,7 +59,10 @@ Yumeng Lu
     <div class='paper-box-text' style="flex: 0 0 85%; max-width: 85%;" markdown="1">
 
 - **Major** 
+
 *2022.08 - 2026.07 (expected)*: B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
+
 - **Minor**
+
 *2023.11 - 2026.07 (expected)*: Minor: B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
 </div>
