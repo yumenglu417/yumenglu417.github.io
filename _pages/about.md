@@ -62,3 +62,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.08 - 2026.07 (expected)*, B.E. in [Measurement & Control and Instruments at Tianjin University](https://jyxy.tju.edu.cn/en/)  
 - *2023.11 - 2026.07 (expected)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
+</div>
