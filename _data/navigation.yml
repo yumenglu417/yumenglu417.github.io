@@ -9,14 +9,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Publications"
+    url: "/#-publications"
+
   - title: "Scholarships"
     url: "/#-scholarships"
 
   - title: "Honors"
     url: "/#-honors"
 
-  - title: "Publications"
-    url: "/#-publications"
 
-  - title: "Contact"
-    url: "/#-contact"
+
