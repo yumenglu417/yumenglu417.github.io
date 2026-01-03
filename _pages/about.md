@@ -59,19 +59,11 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 
 † Equal contribution 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIE PA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [C1] <a href="https://yumenglu417.github.io/files/PA112.pdf" target="_blank">Hydrogel whispering-gallery mode microresonators for toxic heavy metals analysis in Chinese herbals</a>
 
-[Hydrogel whispering-gallery mode microresonators for toxic heavy metals analysis in Chinese herbals](<a href="https://yumenglu417.github.io/files/PA112.pdf" target="_blank">查看 PDF 文档</a>)
+Ruijie Wu†, <u>**Yumeng Lu†**<\u>, Ziyihui Wang, Bahetiguli Asilibieke, Jianying Jing, Kun Liu, Junfeng Jiang, Yu-Cheng Chen, Jing Wang, Tiegen Liu
 
-Ruijie Wu†, **Yumeng Lu†**, Ziyihui Wang, Bahetiguli Asilibieke, Jianying Jing, Kun Liu, Junfeng Jiang, Yu-Cheng Chen, Jing Wang, Tiegen Liu
+- [C2] <a href="https://yumenglu417.github.io/files/PA111.pdf" target="_blank">High-sensitive biosensor for urea detection in urine via hydrogel whispering-gallery mode microresonators</a>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
+<u>**Yumeng Lu†**<\u>, Yaoxin Fu†, Bahetiguli Asilibieke, Ziyihui Wang, Junfeng Jiang, Tianhua Xu, Jing Wang, Tiegen Liu
 
