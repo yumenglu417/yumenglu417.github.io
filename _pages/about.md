@@ -20,13 +20,15 @@ redirect_from:
 # 😃 About me
 Hi, I am Yumeng Lu, a final-year undergraduate at [School of Precision Instrument and Optoelectronics Engineering (SPIOE)](https://jyxy.tju.edu.cn/en/), Tianjin University (TJU). Meanwhile, I am conducting a dual-degree program with the [College of Intelligence and Computing (CIC)](https://cic.tju.edu.cn/english/home.htm). 
 
-I have some research experiences in optical/photonics/flexible-electronics design, simulation, fabrication, and test, and worked as a research assistant in [TankLab](http://www.tjutanklab.com/) for network deployment. Currently, my research interests lies in silicon photonics and integrated photonics. 
+I have some research experiences in optics/photonics/flexible-electronics design, simulation, fabrication, and test, and worked as a Research Assistant in [TankLab](http://www.tjutanklab.com/) for network deployment. Currently, my research interests lies in silicon photonics and integrated photonics. 
 
-If you are interested in my research or have any questions, please feel free to reach me out through [my email](mailto: lym4417@tju.edu.cn). Also you can connect with me to know more details via [LinkedIn](https://www.linkedin.com/in/yumeng-lu-1286ba348) or WeChat (lym4417).  
+My hobbies lie in different fields, including but not limited to Legos, snowboarding, billiards, Mahjong, swimming, badminton, and E-sports 😄 
+
+If you are interested in my research field, have any questions or if we share similar hobbies, please feel free to reach me out through [my email](mailto: lym4417@tju.edu.cn). Also you can connect with me to know more details via [LinkedIn](https://www.linkedin.com/in/yumeng-lu-1286ba348) or WeChat (lym4417).  
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 Two oral presentations were given by Yumeng in SPIE Photonics Asia 2025, Beijing. 😎
+- *2025.10*: &nbsp;🎉 Two oral presentations were given by Yumeng in SPIE Photonics Asia 2025, Beijing 😎
 - *2025.07*: &nbsp;🎉 Thrilled to announce that I started my internship in Prof. Xue's group at The Chinese University of Hong Kong. 🤓   
 - *2025.07*: &nbsp;🎉 First published work!! Two conferences were accepted by SPIE Photonics Asia 2025. 🤩   
 
@@ -40,9 +42,11 @@ If you are interested in my research or have any questions, please feel free to 
 B.Eng. in Measurement & Control Technology and Instruments, *2022.08 - 2026.07 (expected)*
 
 <span style="color: gray;">GPA: 3.88/4.00, Ranking: 8/131
+
 <span style="color: gray;">Thesis: Silicon-based III-V group micro-laser design
 
 B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
+
 <span style="color: gray;">Thesis: Research on reliable transmission mechanism of RDMA in lossy network
 
 </div>
@@ -69,5 +73,8 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 # 🏅 Honors
 - Merit student at Tianjin University, 2023-2025  
 - Outstanding student of Class 2026 at Tianjin University, 2025 
+
+
+
 
 <span style="color: gray;">Last updated: January 2026 
