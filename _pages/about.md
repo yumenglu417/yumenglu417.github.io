@@ -40,8 +40,11 @@ If you are interested in my research or have any questions, please feel free to 
 B.Eng. in Measurement & Control Technology and Instruments, *2022.08 - 2026.07 (expected)*
 
 <span style="color: gray;">GPA: 3.88/4.00, Ranking: 8/131
+<span style="color: gray;">Thesis: Silicon-based III-V group micro-laser design
 
 B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
+<span style="color: gray;">Thesis: Research on reliable transmission mechanism of RDMA in lossy network
+
 </div>
 </div>
 
@@ -67,3 +70,4 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 - Merit student at Tianjin University, 2023-2025  
 - Outstanding student of Class 2026 at Tianjin University, 2025 
 
+<span style="color: gray;">Last updated: January 2026 
