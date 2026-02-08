@@ -28,7 +28,7 @@ If you are interested in my research field, have any questions or if we share si
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 Two oral presentations were given by Yumeng in SPIE Photonics Asia 2025, Beijing 😎
+- *2025.10*: &nbsp;🎉 Two oral presentations were given by Yumeng at SPIE Photonics Asia 2025 in Beijing, China 😎
 - *2025.07*: &nbsp;🎉 Thrilled to announce that I started my internship in Prof. Xue's group at The Chinese University of Hong Kong 🤓   
 - *2025.07*: &nbsp;🎉 First published work!! Two conferences were accepted by SPIE Photonics Asia 2025 🤩   
 - *2025.05*: &nbsp;🤡 My summer research in Canada got officially withdrawn, and <span style="color: red;">I'm now looking for potential **self-funded** oversea research opportunity in the coming summer.
