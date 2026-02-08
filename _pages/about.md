@@ -22,7 +22,7 @@ Hi, I am Yumeng Lu, a final-year undergraduate at [School of Precision Instrumen
 
 I have some research experiences in optics/photonics/flexible-electronics design/simulation/fabrication/test, and worked as a Research Assistant in [TankLab](http://www.tjutanklab.com/) for network deployment. Currently, my research interests lie in silicon photonics, integrated photonics, and on-chip lasers. 
 
-My hobbies lie in different fields, including but not limited to Legos, snowboarding, billiards, Mahjong, swimming, badminton, and E-sports 😄 
+My hobbies lie in different fields, including but not limited to Legos, snowboarding, billiards, Mahjong, swimming, badminton, hiking, and E-sports 😄 
 
 If you are interested in my research field, have any questions or if we share similar hobbies, please feel free to reach me out through [my email](mailto: lym4417@tju.edu.cn). Also you can connect with me to know more details via [LinkedIn](https://www.linkedin.com/in/yumeng-lu-1286ba348) or WeChat (lym4417).  
 
