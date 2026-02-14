@@ -30,7 +30,7 @@ author:
   googlescholar    : https://scholar.google.com/citations?hl=en&user=Jdx8WKwAAAAJ
   email            : "lym4417@tju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://yumenglu417.github.io/files/CV_Yumeng Lu.pdf
   bitbucket        :
   codepen          :
   dribbble         :
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV        : https://yumenglu417.github.io/files/CV_Yumeng Lu.pdf
 
 # Reading Files
 include:
