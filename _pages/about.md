@@ -80,4 +80,4 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 
 
 
-<span style="color: gray;">Last updated: January 2026 
+<span style="color: gray;">Last updated: February 2026 
