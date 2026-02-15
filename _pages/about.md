@@ -78,7 +78,6 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 - Outstanding student of Class 2026 at Tianjin University, 2025 
 
 <br>
-<br>
 
 <span style="color: gray;">Last updated: February 2026 
 
