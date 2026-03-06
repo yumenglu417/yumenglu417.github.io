@@ -79,6 +79,6 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 
 <br>
 
-<span style="color: gray;">Last updated: February 2026 
+<span style="color: gray;">Last updated: March 2026 
 
 <span style="color: gray;">Template from [Yi Ren](https://rayeren.github.io/)
