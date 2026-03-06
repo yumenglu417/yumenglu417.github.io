@@ -66,16 +66,14 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 
 &nbsp; **<u>Yumeng Lu<sup>†</sup></u>**, Yaoxin Fu<sup>†</sup>, Bahetiguli Asilibieke<sup>#</sup>, Ziyihui Wang<sup>#</sup>, Junfeng Jiang, Tianhua Xu, Jing Wang, Tiegen Liu
 
-# 💵 Scholarships
-- *2025.12* Professor Guoxiong Zhang Scholarship, School of Precision Instrument and Optoelectronics Engineering
-- *2025.01* Mitacs Globalink Research Intership, Queen's University & Mitacs Inc. 
-- *2024.12* National Scholarship, Ministry of Education of the People's Republic of China
-- *2023.11* Rianlon Scholarship, Tianjin University 
-
-# 🏅 Honors
-- Merit student at Tianjin University, 2023-2025  
-- Outstanding student of Class 2026 at Tianjin University, 2025 
-- Tianjin Mathematical Competition (First Prize), 2023 
+# 🏅 Awards
+- [2025] Professor Guoxiong Zhang Scholarship, SPIOE
+- [2025] Outstanding student of Class 2026, TJU
+- [2025] Mitacs Globalink Research Intership, Queen's University & Mitacs Inc. 
+- [2024] National Scholarship, Ministry of Education of the People's Republic of China
+- [2023] Rianlon Scholarship, TJU
+- [2023] Tianjin Mathematical Competition (First Prize) 
+- [2023-2025] Merit student, TJU
 
 <br>
 
