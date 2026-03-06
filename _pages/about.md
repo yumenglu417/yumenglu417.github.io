@@ -75,6 +75,7 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 # 🏅 Honors
 - Merit student at Tianjin University, 2023-2025  
 - Outstanding student of Class 2026 at Tianjin University, 2025 
+- Tianjin Mathematical Competition (First Prize), 2023 
 
 <br>
 
