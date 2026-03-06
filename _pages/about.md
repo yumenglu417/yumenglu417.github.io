@@ -67,8 +67,8 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 &nbsp; **<u>Yumeng Lu<sup>†</sup></u>**, Yaoxin Fu<sup>†</sup>, Bahetiguli Asilibieke<sup>#</sup>, Ziyihui Wang<sup>#</sup>, Junfeng Jiang, Tianhua Xu, Jing Wang, Tiegen Liu
 
 # 🏅 Awards
-- [2025] Professor Guoxiong Zhang Scholarship, SPIOE
-- [2025] Outstanding student of Class 2026, TJU
+[2025] Professor Guoxiong Zhang Scholarship, SPIOE <br>
+[2025] Outstanding student of Class 2026, TJU
 - [2025] Mitacs Globalink Research Intership, Queen's University & Mitacs Inc. 
 - [2024] National Scholarship, Ministry of Education of the People's Republic of China
 - [2023] Rianlon Scholarship, TJU
