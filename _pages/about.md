@@ -31,7 +31,6 @@ If you are interested in my research field, have any questions or if we share si
 - *2025.10*: &nbsp;🎉 Two oral presentations were given by Yumeng at SPIE Photonics Asia 2025 in Beijing, China.
 - *2025.07*: &nbsp;🎉 Thrilled to announce that I started my internship in Prof. Xue's group at The Chinese University of Hong Kong.    
 - *2025.07*: &nbsp;🎉 First published work!! Two conferences were accepted by SPIE Photonics Asia 2025.   
-- *2025.05*: &nbsp;🤡 My summer research in Canada got officially withdrawn, and <span style="color: red;">I'm now looking for potential **self-funded** oversea research opportunity in the coming summer.
 - *2024.12*: &nbsp;🎉 Happy to share that I got the offer of fully-funded summer research opportunity from [Mitacs GRI programme](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), which successfully matched with [Prof. Scott Yam](https://www.queensu.ca/academia/scott-yam/) at Queen's University! 
 - *2024.10*: &nbsp;🎉 I started my new position as the president of the Student Union. 
 
