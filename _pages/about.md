@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-Hi, I am Yumeng Lu, a final-year undergraduate at [School of Precision Instrument and Optoelectronics Engineering (SPIOE)](https://jyxy.tju.edu.cn/en/), Tianjin University (TJU). Meanwhile, I am conducting a dual-degree program with the [College of Intelligence and Computing (CIC)](https://cic.tju.edu.cn/english/home.htm). 
+Hi, there! I am Yumeng Lu, a final-year undergraduate at [School of Precision Instrument and Optoelectronics Engineering (SPIOE)](https://jyxy.tju.edu.cn/en/), Tianjin University (TJU). Meanwhile, I am conducting a dual-degree program with the [College of Intelligence and Computing (CIC)](https://cic.tju.edu.cn/english/home.htm). I am now an incoming PhD student at The Chinese University of Hong Kong, where I will join in August 2026. 
 
 I have some research experiences in optics/photonics/flexible-electronics design/simulation/fabrication/test, and worked as a Research Assistant in [TankLab](http://www.tjutanklab.com/) for network deployment. Currently, my research interests lie in silicon photonics, integrated photonics, and on-chip lasers. 
 
