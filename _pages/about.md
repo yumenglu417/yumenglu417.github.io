@@ -67,6 +67,7 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 &nbsp; **<u>Yumeng Lu<sup>†</sup></u>**, Yaoxin Fu<sup>†</sup>, Bahetiguli Asilibieke<sup>#</sup>, Ziyihui Wang<sup>#</sup>, Junfeng Jiang, Tianhua Xu, Jing Wang, Tiegen Liu
 
 # 🏅 Awards
+[2026] Excellent Graduate, Tianjin University <br>
 [2025] Professor Guoxiong Zhang Scholarship, School of Precision Instrument and Optoelectronics Engineering <br>
 [2025] Outstanding student of Class 2026, Tianjin University <br>
 [2025] Mitacs Globalink Research Intership, Queen's University & Mitacs Inc. <br> 
@@ -77,6 +78,6 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 
 <br>
 
-<span style="color: gray;">Last updated: March 2026 
+<span style="color: gray;">Last updated: May 2026 
 
 <span style="color: gray;">Template from [Yi Ren](https://rayeren.github.io/)
