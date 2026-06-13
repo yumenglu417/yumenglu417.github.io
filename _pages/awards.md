@@ -8,7 +8,8 @@ author_profile: true
 <span class='anchor' id='-awards'></span>
 
 # 🏅 Awards
-[2026] Excellent Graduate, Tianjin University <br>
+[2026] Outstanding Graduate, Tianjin University <br>
+[2026] Postgraduate Studentship, The Chinese University of Hong Kong <br>
 [2025] Professor Guoxiong Zhang Scholarship, School of Precision Instrument and Optoelectronics Engineering <br>
 [2025] Outstanding student of Class 2026, Tianjin University <br>
 [2025] Mitacs Globalink Research Intership, Queen's University & Mitacs Inc. <br> 
