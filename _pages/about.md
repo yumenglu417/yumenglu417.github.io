@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 # 😃 About me
 Hi, there! I am Yumeng Lu, a final-year undergraduate at [School of Precision Instrument and Optoelectronics Engineering (SPIOE)](https://jyxy.tju.edu.cn/en/), Tianjin University (TJU). Meanwhile, I am conducting a dual-degree program with the [College of Intelligence and Computing (CIC)](https://cic.tju.edu.cn/english/home.htm). I am an incoming PhD student at The Chinese University of Hong Kong, where I will join in August 2026. 
 
@@ -19,6 +28,6 @@ If you are interested in my research field, have any questions or if we share si
 
 <br>
 
-<span style="color: gray;">Last updated: May 2026</span>
+<span style="color: gray;">Last updated: May 2026 </span>
 
 <span style="color: gray;">Template from [Yi Ren](https://rayeren.github.io/)</span>
