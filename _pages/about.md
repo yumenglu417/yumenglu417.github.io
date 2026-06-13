@@ -26,8 +26,3 @@ My hobbies lie in different fields, including but not limited to Legos, snowboar
 
 If you are interested in my research field, have any questions or if we share similar hobbies, please feel free to reach me out through [my email](mailto: lym4417@tju.edu.cn). Also you can connect with me to know more details via [LinkedIn](https://www.linkedin.com/in/yumeng-lu-1286ba348) or WeChat (lym4417).  
 
-<br>
-
-<span style="color: gray;">Last updated: June 2026 </span>
-
-<span style="color: gray;">Template from [Yi Ren](https://rayeren.github.io/)</span>
