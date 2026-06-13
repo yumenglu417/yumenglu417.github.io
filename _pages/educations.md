@@ -5,6 +5,8 @@ excerpt: ""
 author_profile: true
 ---
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 <div class='paper-box'>
     <div class='paper-box-image' style="flex: 0 0 15%; max-width: 15%; min-width: 120px;">
