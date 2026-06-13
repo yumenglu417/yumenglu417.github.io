@@ -58,22 +58,29 @@ author_profile: true
   }
 
   .lego-set {
-    margin: 1.8rem 0 2.2rem;
+    margin: 1.8rem 0 2.35rem;
   }
 
   .lego-set-head {
     display: flex;
-    align-items: baseline;
+    align-items: flex-end;
     justify-content: space-between;
     gap: 1rem;
     margin-bottom: 0.8rem;
     border-bottom: 1px solid #f0f1f2;
-    padding-bottom: 0.35rem;
+    padding-bottom: 0.45rem;
   }
 
-  .lego-set-head h2 {
+  .lego-set-title h2 {
     margin: 0;
-    font-size: 1.15rem;
+    font-size: 1.18rem;
+  }
+
+  .lego-subtitle {
+    margin: 0.25rem 0 0;
+    color: #8a9299;
+    font-size: 0.82rem;
+    line-height: 1.4;
   }
 
   .lego-count {
@@ -92,8 +99,9 @@ author_profile: true
   }
 
   .lego-card {
-    flex: 0 0 235px;
-    height: 176px;
+    position: relative;
+    flex: 0 0 250px;
+    height: 185px;
     display: block;
     border-radius: 16px;
     overflow: hidden;
@@ -104,8 +112,8 @@ author_profile: true
   }
 
   .lego-card:first-child {
-    flex-basis: 320px;
-    height: 210px;
+    flex-basis: 330px;
+    height: 220px;
   }
 
   .lego-card img {
@@ -118,6 +126,54 @@ author_profile: true
 
   .lego-card:hover img {
     transform: scale(1.035);
+  }
+
+  .lego-card-label {
+    position: absolute;
+    left: 0.65rem;
+    bottom: 0.65rem;
+    padding: 0.18rem 0.48rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.86);
+    color: #444b52;
+    font-size: 0.72rem;
+    font-weight: 600;
+    line-height: 1.3;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .lego-set.is-featured {
+    margin-top: 1.2rem;
+  }
+
+  .lego-set.is-featured .lego-set-head {
+    margin-bottom: 0.9rem;
+  }
+
+  .lego-set.is-featured .lego-scroll {
+    overflow-x: visible;
+    padding-bottom: 0.3rem;
+  }
+
+  .lego-set.is-featured .lego-card,
+  .lego-set.is-featured .lego-card:first-child {
+    flex: 1 1 100%;
+    width: 100%;
+    height: auto;
+    min-height: 0;
+    border-radius: 20px;
+  }
+
+  .lego-set.is-featured .lego-card img {
+    width: 100%;
+    height: auto;
+    max-height: 540px;
+    object-fit: contain;
+    background: #f4f5f6;
+  }
+
+  .lego-set.is-featured .lego-card-label {
+    display: none;
   }
 
   .lego-scroll::-webkit-scrollbar,
@@ -148,35 +204,48 @@ author_profile: true
       height: 52vw;
       max-height: 260px;
     }
+
+    .lego-set.is-featured .lego-card,
+    .lego-set.is-featured .lego-card:first-child {
+      flex-basis: 100%;
+      max-height: none;
+    }
   }
 </style>
 
 <div class="lego-page">
   <div class="lego-hero">
     <h1>🧱 Lego Sets</h1>
-    <p>I'm a LEGO fan for about 14 years, especially for LEGO®CREATOR(ICONS) and IDEAS. Here is my gallery, welcome!</p>
+    <p>My Lego collection, grouped by series. Scroll sideways in each section to view more photos.</p>
   </div>
 
-  <div class="lego-index" aria-label="Lego set index">
+  <div class="lego-index" aria-label="Lego collection index">
     {% for set in site.data.lego_sets %}
       <a href="#lego-{{ set.id }}" target="_self">{{ set.title }}</a>
     {% endfor %}
   </div>
 
   {% for set in site.data.lego_sets %}
-  <section class="lego-set" id="lego-{{ set.id }}">
-    <div class="lego-set-head">
-      <h2>{{ set.title }}</h2>
-      <span class="lego-count">{{ set.count }} photo{% if set.count > 1 %}s{% endif %}</span>
-    </div>
+    {% assign photo_count = set.images | size %}
+    <section class="lego-set{% if set.featured %} is-featured{% endif %}" id="lego-{{ set.id }}">
+      <div class="lego-set-head">
+        <div class="lego-set-title">
+          <h2>{{ set.title }}</h2>
+          {% if set.subtitle %}<p class="lego-subtitle">{{ set.subtitle }}</p>{% endif %}
+        </div>
+        <span class="lego-count">{{ photo_count }} photo{% if photo_count != 1 %}s{% endif %}</span>
+      </div>
 
-    <div class="lego-scroll" aria-label="{{ set.title }} gallery">
-      {% for image in set.images %}
-        <a class="lego-card" href="{{ image }}" target="_blank" rel="noopener">
-          <img src="{{ image }}" alt="{{ set.title }} photo {{ forloop.index }}" loading="lazy">
-        </a>
-      {% endfor %}
-    </div>
-  </section>
+      <div class="lego-scroll" aria-label="{{ set.title }} gallery">
+        {% for image in set.images %}
+          <a class="lego-card" href="{{ image.src }}" target="_blank" rel="noopener">
+            <img src="{{ image.src }}" alt="{{ set.title }}{% if image.label %} {{ image.label }}{% endif %} photo {{ forloop.index }}" loading="lazy">
+            {% unless set.featured %}
+              {% if image.label %}<span class="lego-card-label">{{ image.label }}</span>{% endif %}
+            {% endunless %}
+          </a>
+        {% endfor %}
+      </div>
+    </section>
   {% endfor %}
 </div>
