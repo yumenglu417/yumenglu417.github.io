@@ -8,6 +8,7 @@ author_profile: true
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 Graduate from TJU!!
 - *2025.10*: &nbsp;🎉 Two oral presentations were given by Yumeng at SPIE Photonics Asia 2025 in Beijing, China.
 - *2025.07*: &nbsp;🎉 Thrilled to announce that I started my internship in Prof. Xue's group at The Chinese University of Hong Kong.    
 - *2025.07*: &nbsp;🎉 First published work!! Two conferences were accepted by SPIE Photonics Asia 2025.   
