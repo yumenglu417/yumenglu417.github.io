@@ -10,7 +10,7 @@ author_profile: true
 # 📖 Educations
 <div class='paper-box'>
     <div class='paper-box-image' style="flex: 0 0 15%; max-width: 15%; min-width: 120px;">
-        <div><img src='{{ "/images/TJU.png" | relative_url }}' alt="sym" width="100%"></div>
+        <div><img src='/images/TJU.png' alt="sym" width="100%"></div>
     </div>    
     <div class='paper-box-text' style="flex: 0 0 85%; max-width: 85%;" markdown="1">
 
