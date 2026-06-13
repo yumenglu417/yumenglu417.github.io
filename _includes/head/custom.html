@@ -21,3 +21,32 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
+<style>
+  /* Put the update/template note at the bottom of each page without changing the original layout */
+  #main {
+    min-height: calc(100vh - 80px);
+  }
+
+  article.page {
+    min-height: calc(100vh - 160px);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .page__inner-wrap {
+    flex: 0 0 auto;
+  }
+
+  .page-bottom-note {
+    margin-top: auto;
+    padding-top: 3em;
+    padding-bottom: 2em;
+    color: #7a8288;
+    font-size: 0.9em;
+  }
+
+  .page-bottom-note a {
+    color: inherit;
+  }
+</style>
