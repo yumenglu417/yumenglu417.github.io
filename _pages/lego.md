@@ -154,7 +154,7 @@ author_profile: true
 <div class="lego-page">
   <div class="lego-hero">
     <h1>🧱 Lego Sets</h1>
-    <p>My Lego collection. Each set has its own horizontal gallery; scroll sideways to view more photos.</p>
+    <p>I'm a LEGO fan for about 14 years, especially for LEGO®CREATOR(ICONS) and IDEAS. Here is my gallery, welcome!</p>
   </div>
 
   <div class="lego-index" aria-label="Lego set index">
