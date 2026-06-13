@@ -6,10 +6,18 @@
     label: Overview
 - id: icons
   title: LEGO ICONS
-  subtitle: 10218 · 10273 · 10278 · 10326 · 10350 · 10371 · 10292 · 40478 · 76218
+  subtitle: 10218 · 10243 · 10251 · 10273 · 10278 · 10326 · 10350 · 10371 · 10292 · 40478 · 76218
   images:
   - src: /images/10218_1.jpg
     label: '10218'
+  - src: /images/10243_1.jpg
+    label: '10243'
+  - src: /images/10243_2.jpg
+    label: '10243'
+  - src: /images/10243_3.jpg
+    label: '10243'
+  - src: /images/10251_1.jpg
+    label: '10251'
   - src: /images/10273_1.jpg
     label: '10273'
   - src: /images/10273_2.jpg
@@ -134,6 +142,8 @@
     label: '10292'
   - src: /images/40478_1.jpg
     label: '40478'
+  - src: /images/40478_2.jpg
+    label: '40478'
   - src: /images/76218_1.jpg
     label: '76218'
   - src: /images/76218_2.jpg
@@ -162,8 +172,12 @@
     label: '76218'
 - id: ideas
   title: LEGO IDEAS
-  subtitle: 21318 · 21321 · 21330
+  subtitle: 21310 · 21318 · 21321 · 21330
   images:
+  - src: /images/21310_1.jpg
+    label: '21310'
+  - src: /images/21310_2.jpg
+    label: '21310'
   - src: /images/21318_1.jpg
     label: '21318'
   - src: /images/21318_2.jpg
@@ -264,6 +278,12 @@
     label: Figures
   - src: /images/figure10.jpg
     label: Figures
+  - src: /images/figure11.jpg
+    label: Figures
+  - src: /images/figure12.jpg
+    label: Figures
+  - src: /images/figure13.jpg
+    label: Figures
   - src: /images/flower1.jpg
     label: Flowers
   - src: /images/flower2.jpg
@@ -276,6 +296,20 @@
     label: '71006'
   - src: /images/71006_2.jpg
     label: '71006'
+  - src: /images/71006_3.jpg
+    label: '71006'
+  - src: /images/71006_4.jpg
+    label: '71006'
+  - src: /images/71006_5.jpg
+    label: '71006'
+  - src: /images/71006_6.jpg
+    label: '71006'
+  - src: /images/71006_7.jpg
+    label: '71006'
+  - src: /images/71006_8.jpg
+    label: '71006'
+  - src: /images/71006_9.jpg
+    label: '71006'
   - src: /images/71016_1.jpg
     label: '71016'
   - src: /images/71016_2.jpg
@@ -285,4 +319,14 @@
   - src: /images/71016_4.jpg
     label: '71016'
   - src: /images/71016_5.jpg
+    label: '71016'
+  - src: /images/71016_6.jpg
+    label: '71016'
+  - src: /images/71016_7.jpg
+    label: '71016'
+  - src: /images/71016_8.jpg
+    label: '71016'
+  - src: /images/71016_9.jpg
+    label: '71016'
+  - src: /images/71016_10.jpg
     label: '71016'
